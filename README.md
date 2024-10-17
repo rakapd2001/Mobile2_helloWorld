@@ -1,4 +1,4 @@
-# tugas_2
+# Tugas 2 - Pemrograman Mobile 2 - Raka PD - 22552011154
 
 A new Flutter project.
 
